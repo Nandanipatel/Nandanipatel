@@ -1,4 +1,4 @@
-<h1 align="center">Hey there..It's Nandani Patel</h1>
+<h1 align="center">Hey there...It's Nandani Patel</h1>
 <h3 align="center">Learner</h3>
 
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nandanipatel1406@gmail.com**
 
-- ⚡ Fun fact **I love calligraphy n sketching...**
+- ⚡ Fun fact **I like calligraphy and sketching...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
